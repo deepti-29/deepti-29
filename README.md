@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development and ROS
 - 📫 How to reach me s.deepti2906@gmail.com
 - 🥅 Other facts: My hobbies are playing badminton and reading novels.
-- Languages and Tools:
+- Languages and Tools:<br>
   -C
   <br>
   -c++
