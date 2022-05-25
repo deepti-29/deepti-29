@@ -5,8 +5,11 @@
 - 🥅 Other facts: My hobbies are playing badminton and reading novels.
 - Languages and Tools:
   -C
+  <br>
   -c++
-  -JAVA 
+  <br>
+  -JAVA
+  <br>
   -Python
 <!---
 deepti-29/deepti-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
