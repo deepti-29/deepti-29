@@ -11,8 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/deepti srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepti srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/deepthyy._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepthyy._" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/d_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="d_sri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/d_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d_sri" height="30" width="40" /></a>
+
 <a href="https://discord.gg/#6404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6404" height="30" width="40" /></a>
 </p>
 
